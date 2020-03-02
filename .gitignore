@@ -1,0 +1,5 @@
+set_git.sh
+.vscode
+*.ipynb_checkpoints
+examples
+__pycache__
